@@ -1,3 +1,12 @@
+/*
+Name: Landon Davidson
+Section: 32768
+Program Name: LambdaMain
+
+Description: Creates various ArrayProcessor lambda expressions using
+the ArrayProcessor functional interface
+ */
+
 package Part2Lambda;
 
 public class LambdaMain {

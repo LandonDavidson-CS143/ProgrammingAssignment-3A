@@ -1,3 +1,11 @@
+/*
+Name: Landon Davidson
+Section: 32768
+Program Name: IterativeFib
+
+Description: Finds the nth number in the Fibonacci sequence iteratively
+ */
+
 package Part1Recursion;
 
 public class IterativeFib {

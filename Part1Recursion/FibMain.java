@@ -1,3 +1,12 @@
+/*
+Name: Landon Davidson
+Section: 32768
+Program Name: FibMain
+
+Description: Runs both Fib functions (recursive and iterative) and records
+how long they take to run
+ */
+
 package Part1Recursion;
 
 public class FibMain {
